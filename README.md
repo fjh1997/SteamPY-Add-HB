@@ -1,6 +1,6 @@
 ﻿# SteamPY-Add-HB
 批量上架HB月包里的游戏到PY<br>
-需要配合仓库里的油猴插件使用<br>
+需要配合仓库里的[油猴插件](https://github.com/fjh1997/SteamPY-Add-HB/raw/refs/heads/main/Humble%20Choice%20Get%20Key-0.20.user.js)使用<br>
 标准格式如下:
 ```
 cn 	https://store.steampowered.com/app/1088850	Marvel's Guardians of the Galaxy	FFFFF-FFFFF-FFFFF
